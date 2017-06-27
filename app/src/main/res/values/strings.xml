@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spetz Counter</string>
+    <string name="facebook_application_id" translatable="false">1289270777829441</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb1289270777829441</string>
+</resources>
